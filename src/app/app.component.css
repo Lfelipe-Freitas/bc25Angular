@@ -1,0 +1,46 @@
+h1
+{
+  text-align: center;
+  margin-top: 50px;
+  color: white;
+  margin-top: 50px;
+  font-size: 50px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  text-decoration: solid;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+  text-decoration: solid;
+  margin-bottom: 70px;
+}
+
+body
+ {
+  height: 100vh;
+ }
+
+ .btn {
+  width: 200px;
+  margin-left: 180px;
+ }
+
+ #btnBranco {
+  background-color: white;
+ }
+
+ img
+{
+  height: 40px;
+}
+#buscar
+{
+  background-color: black;
+  border: outset;
+  font-family: 'Montserrat', sans-serif;
+}
